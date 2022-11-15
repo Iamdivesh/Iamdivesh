@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iamdivesh
-- 👀 I’m interested in devlopment 
+- 👀 I’m interested in Devlopment 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate for youtube
 - 📫 How to reach me singh_divesh@outlook.com
